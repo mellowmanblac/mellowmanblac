@@ -1,14 +1,17 @@
-<h1 align="center">Hi there, I'm Chinedu 👋</h1>
-
-<p align="center">
-  <strong>Aspiring Back-End Engineer | ALX Software Engineering Program</strong><br>
-  Passionate about solving real-world problems through code.
-</p>
-
-<hr />
-
-<h2>🚀 About Me</h2>
-
+<table>
+  <tr>
+    <td width="140" valign="top">
+      <img src="https://drive.google.com/file/d/10fVaD5tFAWfwpK6vZQsbtvRG25TGNWNM/view?usp=sharing" alt="Your Photo" style="border-radius: 50%; max-width: 100%;" />
+    </td>
+    <td>
+      <h1>Hi there, I'm Chinedu 👋</h1>
+      <p>
+        <strong>Aspiring Back-End Engineer | ALX Software Engineering Program</strong><br />
+        Passionate about solving real-world problems through code.
+      </p>
+    </td>
+  </tr>
+</table>
 <p>
   I’m inspired to be a software engineer because I find joy in solving problems, bringing ideas to life through code, and knowing that what I build can help others.
 </p>
