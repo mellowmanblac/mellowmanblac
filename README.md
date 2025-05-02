@@ -62,8 +62,7 @@
 </p>
 
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a></li>
-  <li>📁 <a href="https://your-portfolio.com">Portfolio Website</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/chinedu-iroka">LinkedIn</a></li>
   <li>📧 Email: irokachinedu7@gmail.com </li>
 </ul>
 
